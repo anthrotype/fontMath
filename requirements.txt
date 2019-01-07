@@ -1,2 +1,2 @@
-fonttools==3.34.2
+fonttools==3.35.0
 ufoLib==3.0.0
